@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Java/Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Generated performance data
+#csv_files/interoperability_csv/
+#graphs/interoperability/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Optional: ignore any leftover text outputs
+*.txt
